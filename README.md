@@ -37,7 +37,7 @@ DevOps: Azure Pipelines, CI/CD
 
 🔹 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/ReactTodoUIMonolith.git
+git clone [https://github.com/YourUsername/ReactTodoUIMonolith.git](https://github.com/Pradum9754/ReactTodoUIMonolith.git)
 cd ReactTodoUIMonolith
 
 2️⃣ Install dependencies
